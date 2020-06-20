@@ -3,6 +3,8 @@ import * as React from 'react';
 import { Image, Platform, StyleSheet, Text, TouchableOpacity, View } from 'react-native';
 import { ScrollView } from 'react-native-gesture-handler';
 
+import { useQuery } from '@apollo/react-hooks';
+import { QUERY_ARTICLES_BYSOURCE } from '../graphql';
 // import { MonoText } from '../components/StyledText';
 
 export default function HomeScreen() {
