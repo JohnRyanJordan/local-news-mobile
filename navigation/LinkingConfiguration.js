@@ -6,8 +6,14 @@ export default {
     Root: {
       path: 'root',
       screens: {
-        Home: 'home',
-        Links: 'links',
+        Main: {
+          path: 'main',
+          screens: {
+            Home: 'home',
+            Sources: 'sources',
+          },
+        },
+        ContentModal: 'content',
       },
     },
   },

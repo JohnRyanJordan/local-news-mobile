@@ -1,5 +1,6 @@
 # Secrets
 custom-exports.js
+local-tests.json
 
 # OSX
 .DS_Store

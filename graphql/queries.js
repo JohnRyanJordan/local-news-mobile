@@ -11,6 +11,7 @@ const QUERY_ARTICLES = gql`
         source
         author
         content
+        image
         link
         description
         title
@@ -30,6 +31,7 @@ const QUERY_ARTICLES_BYSOURCE = gql`
         source
         author
         content
+        image
         link
         description
         title
@@ -49,6 +51,7 @@ query queryArkansasNewsByMonthYearDatePublishedIndex($monthYear: String!, $first
       source
       author
       content
+      image
       link
       description
       title
