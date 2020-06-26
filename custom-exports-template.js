@@ -1,3 +1,11 @@
+/*
+  Inspiration:
+    Environment Management in Expo
+    by: Alex Martinez
+    https://alxmrtnz.com/thoughts/2019/03/12/environment-variables-and-workflow-in-expo.html
+*/
+
+
 // Template for custom-exports (i.e. environment variables) configuration file
 // Change file name to custom-exports.js and add your own variables below
 import Constants from "expo-constants";
