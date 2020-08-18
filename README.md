@@ -2,6 +2,11 @@
 
 ### Mobile app for aggregating local news sources.
 
+<p float="left">
+  <img src="/assets/images/feed-example.png" width="200" />
+  <img src="/assets/images/sources-example.png" width="200" />
+</p>
+
 ### Get started
 
 #### Steps:
